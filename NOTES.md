@@ -1,4 +1,4 @@
-Step 1: Build Models & AR Associations
+#Step 1: Build Models & AR Associations
 - User
   first_name
   last_name
@@ -15,14 +15,14 @@ Step 1: Build Models & AR Associations
 - City
   name
 
-Step 2: Create controllers for models
+#Step 2: Create controllers for models
 
-Step 3: Add active model serializers
+#Step 3: Add active model serializers
 
-Step 4: Add state machine (aasm gem)
+#Step 4: Add state machine (aasm gem)
 
-Step 5: Wire up Angular
+#Step 5: Wire up Angular
 
-Step 6: Add authentication - angular devise
+#Step 6: Add authentication - angular devise
 
-Step 7: Build angular service to consume job board APIs  
+#Step 7: Build angular service to consume job board APIs  
